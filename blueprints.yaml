@@ -1,14 +1,14 @@
 name: Auto Date
 version: 1.0.1
-description: Automatically adds date to frontmatter when creating a new page via Grav Admin plugin
+description: Automatically adds creation date and creator name (account according to Login Plugin) to frontmatter when creating a new page via Grav Admin plugin and keep track of last author and date when saving.
 icon: clock-o
 author:
-  name: Team Grav
-  email: devs@getgrav.org
-homepage: https://github.com/team-grav/grav-plugin-auto-date
+  name: fbab
+  email: 
+homepage: https://github.com/fbab/grav-plugin-auto-date
 keywords: plugin, auto-date, date, frontmatter
-bugs: https://github.com/team-grav/grav-plugin-auto-date/issues
-docs: https://github.com/team-grav/grav-plugin-auto-date/blob/develop/README.md
+bugs: https://github.com/fbab/grav-plugin-auto-date/issues
+docs: https://github.com/fbab/grav-plugin-auto-date
 license: MIT
 
 dependencies:
